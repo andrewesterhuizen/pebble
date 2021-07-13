@@ -1,0 +1,3 @@
+Pebble is a CPU emulator with an assembler, which has been written to be used in some of my other projects that need a VM engine or a target for code generation.
+
+This VM engine will be used in a upcoming C++ rewrite of penpal (https://github.com/andrewesterhuizen/penpal) 
